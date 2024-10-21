@@ -38,14 +38,8 @@ Before running the WeatherSure application, ensure that you have Node.js and npm
 3. Install Vue CLI globally by running the following command:
    ```sh
     npm install -g @vue/cli
-
-
-
-4. Navigate to the project directory:
-   ```sh
-    cd my-vue-app
    
-5. Install project dependencies by running:
+4. Install project dependencies by running:
    ```sh
     npm install
 
