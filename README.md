@@ -39,17 +39,13 @@ Before running the WeatherSure application, ensure that you have Node.js and npm
    ```sh
     npm install -g @vue/cli
 
-4. Create a new Vue project by running the following command:
-   ```sh
-    vue create my-vue-app
 
-5. Select the desired configuration using the arrow keys and press Enter to proceed.
 
-6. Navigate to the project directory:
+4. Navigate to the project directory:
    ```sh
     cd my-vue-app
    
-7. Install project dependencies by running:
+5. Install project dependencies by running:
    ```sh
     npm install
 
